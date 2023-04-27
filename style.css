@@ -1,0 +1,16 @@
+:root {
+    --zals: rgb(4, 0, 233);
+}
+
+
+h1 {
+    color: var(--zals);
+}
+
+p {
+    color: var(--zals);
+}
+
+h2 {
+    color: var(--zals);;
+}
